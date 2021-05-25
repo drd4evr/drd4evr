@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @drd4evr
+- 👀 I’m interested in indie game development.
+- 🌱 I’m currently learning C# and Unity.
